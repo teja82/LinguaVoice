@@ -1,7 +1,7 @@
-# **🌐LinguaVoice**
+# **🌍LinguaVoice**
 LinguaVoice is a web application designed to assist users in translating words and phrases from English to Russian. It provides translations along with images, definitions, and usage examples to enhance language learning.
 
-## **Live Demo**
+## **🌐Live Demo**
 Experience the application live: https://linguavoice.onrender.com/
 
 ## **🚀 Features**
@@ -46,43 +46,38 @@ LinguaVoice/<br>
 ## **⚙️ Installation & Setup**
 Clone the repository:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/teja82/LinguaVoice.git
 cd LinguaVoice
-Create a virtual environment:
+```
 
-bash
-Copy
-Edit
+Create a virtual environment:
+```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
 Install dependencies:
-
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
+
 Run the application:
-
-bash
-Copy
-Edit
+```bash
 python app.py
-
+```
 
 ## **Access the application:**
 Open your browser and navigate to http://127.0.0.1:5000/
 
-## **🧪 Usage **
+## **🧪 Usage**
 Translate Words: Enter or speak an English word to get its Hindi translation.
 
 View Details: Click on the translation to see its translation.
 
 Explore: Use the interface to explore different words and enhance your vocabulary.
 
-## **📸 Screenshots **
+## **📸 Screenshots**
 ![Screenshot 2025-05-02 190019](https://github.com/user-attachments/assets/ec0c1745-18cb-4e05-86df-f9529aa52853)
 
 ## **📜 License **
