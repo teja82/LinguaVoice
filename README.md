@@ -1,4 +1,6 @@
 # **🌐LinguaVoice**
+LinguaVoice is a web application designed to assist users in translating words and phrases from English to Russian. It provides translations along with images, definitions, and usage examples to enhance language learning.
+
 ## **Live Demo**
 Experience the application live: https://linguavoice.onrender.com/
 
