@@ -1,7 +1,7 @@
-🌐 Live Demo
+# **🌐 Live Demo**
 Experience the application live: https://linguavoice.onrender.com/
 
-🚀 Features
+# **🚀 Features**
 Voice Translation: Speak English words or phrases to receive Russian translations.
 
 Visual Aids: Accompanying images to provide contextual understanding.
@@ -10,27 +10,27 @@ Definitions & Examples: Detailed meanings and usage examples for better comprehe
 
 User-Friendly Interface: Intuitive design for seamless interaction.
 
-🛠️ Technologies Used
+# **🛠️ Technologies Used**
 Frontend: HTML, CSS, JavaScript
 
 Backend: Python (Flask)
 
 APIs: SkyEng API for translations and related data
 
-📂 Project Structure
+# **📂 Project Structure**
 cpp
 Copy
 Edit
-LinguaVoice/
-├── app.py
-├── main.py
-├── requirements.txt
-├── static/
-│   ├── css/
-│   └── js/
-├── templates/
-│   └── index.html
-└── __pycache__/
+LinguaVoice/<br>
+├── app.py<br>
+├── main.py<br>
+├── requirements.txt<br>
+├── static/<br>
+│   ├── css/<br>
+│   └── js/<br>
+├── templates/<br>
+│   └── index.html<br>
+└── __pycache__/<br>
 app.py: Initializes and runs the Flask application.
 
 main.py: Contains the core logic for handling translations and API interactions.
@@ -41,7 +41,7 @@ static/: Holds static files like CSS and JavaScript.
 
 templates/: Contains HTML templates for rendering pages.
 
-⚙️ Installation & Setup
+# **⚙️ Installation & Setup**
 Clone the repository:
 
 bash
@@ -72,19 +72,19 @@ Access the application:
 
 Open your browser and navigate to http://127.0.0.1:5000/
 
-🧪 Usage
-Translate Words: Enter or speak an English word to get its Russian translation.
+# **🧪 Usage# **
+Translate Words: Enter or speak an English word to get its Hindi translation.
 
-View Details: Click on the translation to see images, definitions, and usage examples.
+View Details: Click on the translation to see its translation.
 
 Explore: Use the interface to explore different words and enhance your vocabulary.
 
-📸 Screenshots
+# **📸 Screenshots# **
 ![Screenshot 2025-05-02 190019](https://github.com/user-attachments/assets/ec0c1745-18cb-4e05-86df-f9529aa52853)
 
 
-🤝 Contributing
+# **🤝 Contributing# **
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-📄 License
+# **📜 License# **
 This project is licensed under the MIT License. See the LICENSE file for details.
