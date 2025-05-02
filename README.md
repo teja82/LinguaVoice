@@ -78,7 +78,8 @@ View Details: Click on the translation to see its translation.
 Explore: Use the interface to explore different words and enhance your vocabulary.
 
 ## **📸 Screenshots**
-![Screenshot 2025-05-02 190019](https://github.com/user-attachments/assets/ec0c1745-18cb-4e05-86df-f9529aa52853)
+![Screenshot 2025-05-02 192643](https://github.com/user-attachments/assets/0c96ef91-b302-4761-8f1c-a4075c78d1ed)
+
 
 ## **📜 License**
 This project is licensed under the MIT License. See the LICENSE file for details.
