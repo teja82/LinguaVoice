@@ -1,26 +1,25 @@
-# **🌐 Live Demo**
+# **🌐LinguaVoice**
+## **Live Demo**
 Experience the application live: https://linguavoice.onrender.com/
 
-# **🚀 Features**
-Voice Translation: Speak English words or phrases to receive Russian translations.
+## **🚀 Features**
+- ✅ Voice Translation: Speak English words or phrases to receive Russian translations.
 
-Visual Aids: Accompanying images to provide contextual understanding.
+- ✅ Visual Aids: Accompanying images to provide contextual understanding.
 
-Definitions & Examples: Detailed meanings and usage examples for better comprehension.
+- ✅ Definitions & Examples: Detailed meanings and usage examples for better comprehension.
 
-User-Friendly Interface: Intuitive design for seamless interaction.
+- ✅ User-Friendly Interface: Intuitive design for seamless interaction.
 
-# **🛠️ Technologies Used**
-Frontend: HTML, CSS, JavaScript
+## **🛠️ Technologies Used**
+- **Frontend**: HTML, CSS, JavaScript
 
-Backend: Python (Flask)
+- **Backend**: Python (Flask)
 
-APIs: SkyEng API for translations and related data
+- **APIs**: SkyEng API for translations and related data
 
-# **📂 Project Structure**
-cpp
-Copy
-Edit
+## **📂 Project Structure**
+
 LinguaVoice/<br>
 ├── app.py<br>
 ├── main.py<br>
@@ -31,17 +30,18 @@ LinguaVoice/<br>
 ├── templates/<br>
 │   └── index.html<br>
 └── __pycache__/<br>
-app.py: Initializes and runs the Flask application.
 
-main.py: Contains the core logic for handling translations and API interactions.
+## 💼 **What’s Inside?**
 
-requirements.txt: Lists the Python dependencies.
+| File                    | Purpose                                                                  |
+|-------------------------|--------------------------------------------------------------------------|
+| `app.py`                | Initializes and runs the Flask application.                              |
+| `main.py`               | Contains the core logic for handling translations and API interactions.  |
+| `requirements.txt`      | Lists the Python dependencies.                                           |
+| `static/`               | Holds static files like CSS and JavaScript.                              |
+| `templates/`            | Contains HTML templates for rendering pages.                             |
 
-static/: Holds static files like CSS and JavaScript.
-
-templates/: Contains HTML templates for rendering pages.
-
-# **⚙️ Installation & Setup**
+## **⚙️ Installation & Setup**
 Clone the repository:
 
 bash
@@ -68,23 +68,20 @@ bash
 Copy
 Edit
 python app.py
-Access the application:
 
+
+## **Access the application:**
 Open your browser and navigate to http://127.0.0.1:5000/
 
-# **🧪 Usage# **
+## **🧪 Usage **
 Translate Words: Enter or speak an English word to get its Hindi translation.
 
 View Details: Click on the translation to see its translation.
 
 Explore: Use the interface to explore different words and enhance your vocabulary.
 
-# **📸 Screenshots# **
+## **📸 Screenshots **
 ![Screenshot 2025-05-02 190019](https://github.com/user-attachments/assets/ec0c1745-18cb-4e05-86df-f9529aa52853)
 
-
-# **🤝 Contributing# **
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-# **📜 License# **
+## **📜 License **
 This project is licensed under the MIT License. See the LICENSE file for details.
