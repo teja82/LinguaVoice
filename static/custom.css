@@ -1,0 +1,49 @@
+/* Custom styles to complement Bootstrap */
+.card {
+    border-radius: 10px;
+    border: 1px solid var(--bs-border-color);
+}
+
+#audioPlayer {
+    height: 40px;
+    border-radius: 5px;
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+/* Animation for loading status */
+@keyframes pulse {
+    0% { opacity: 0.6; }
+    50% { opacity: 1; }
+    100% { opacity: 0.6; }
+}
+
+.loading {
+    animation: pulse 1.5s infinite;
+}
+
+/* Focus styles for better accessibility */
+textarea:focus, 
+select:focus, 
+button:focus {
+    box-shadow: 0 0 0 0.2rem rgba(var(--bs-info-rgb), 0.25);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .btn {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .d-md-flex {
+        display: block !important;
+    }
+    
+    .me-md-2 {
+        margin-right: 0 !important;
+    }
+}
