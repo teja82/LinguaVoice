@@ -43,10 +43,6 @@ LinguaVoice/<br>
 | `static/`               | Holds static files like CSS and JavaScript.                              |
 | `templates/`            | Contains HTML templates for rendering pages.                             |
 
-
-## **Access the application:**
-Open your browser and navigate to http://127.0.0.1:5000/
-
 ## **🧪 Usage**
 Translate Words: Enter or speak an English word to get its Hindi translation.
 
