@@ -43,29 +43,6 @@ LinguaVoice/<br>
 | `static/`               | Holds static files like CSS and JavaScript.                              |
 | `templates/`            | Contains HTML templates for rendering pages.                             |
 
-## **⚙️ Installation & Setup**
-Clone the repository:
-
-```bash
-git clone https://github.com/teja82/LinguaVoice.git
-cd LinguaVoice
-```
-
-Create a virtual environment:
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-```bash
-python app.py
-```
 
 ## **Access the application:**
 Open your browser and navigate to http://127.0.0.1:5000/
